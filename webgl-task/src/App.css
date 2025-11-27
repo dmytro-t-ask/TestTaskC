@@ -1,0 +1,11 @@
+#root {
+    display: flex;
+    flex: 1;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+.app__container {
+    display: flex;
+    flex: 1;
+}
